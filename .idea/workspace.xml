@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e496c43c-64f1-44a5-955b-6fa209913fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Election Scraper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/election_scraper.py" afterDir="false" />
+    <list default="true" id="e496c43c-64f1-44a5-955b-6fa209913fde" name="Changes" comment="v 1.0 Election scraper&#10;&#10;Before debugging">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Election Scraper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Election Scraper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/election_scraper.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;premeq-cz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/premeq-cz/Election-Scraper.git&quot;,
+    &quot;accountId&quot;: &quot;6265323d-df2d-42bd-b1e8-5ec7bdbfea32&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -40,21 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.cena zlata.executor": "Run",
-    "Python.election_scraper.executor": "Run",
-    "Python.ss.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test_header.executor": "Debug",
-    "Python.transparentní účet AC sparta.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/premysl.pleva/Desktop/Engeto_python/project_3/Election Scraper",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Bulls_and_Cows.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cena zlata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.election_scraper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_header.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.transparentní účet AC sparta.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/premysl.pleva/Desktop/Engeto_python/project_3/Election_Scraper/.venv_elect_scraper/election_scraper_final.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,6 +81,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729325028838</updated>
     </task>
+    <task id="LOCAL-00001" summary="v 1.0 Election scraper&#10;&#10;Before debugging">
+      <option name="closed" value="true" />
+      <created>1730306283178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730306283178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v 1.0 Election scraper&#10;&#10;Before debugging" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 1.0 Election scraper&#10;&#10;Before debugging" />
   </component>
 </project>
